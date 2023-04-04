@@ -1,0 +1,60 @@
+$ git log
+commit 2210f46730a37a9e7c365825a047d024a885ac49 (HEAD -> master, origin/bug3, bug3)
+Author: Andrej Tasevski <andrejtasevski541@gmail.com>
+Date:   Tue Apr 4 22:12:17 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit ee4488865ce5cd61b6ab33efa9668c995214457b (origin/master)
+Merge: 7a020c6 8d146fe
+Author: Andrej Tasevski <andrejtasevski541@gmail.com>
+Date:   Tue Apr 4 22:18:28 2023 +0200
+
+    Merge branch 'bug2'
+
+commit 8d146fea587d47912aae8d8d511da40aa1a62d6a (origin/bug2, bug2)
+Author: Andrej Tasevski <andrejtasevski541@gmail.com>
+Date:   Tue Apr 4 22:11:39 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 7a020c67b7c6fc6daadfb52e65252e3b84677dbd (origin/bug1, bug1)
+Author: Andrej Tasevski <andrejtasevski541@gmail.com>
+Date:   Tue Apr 4 22:10:51 2023 +0200
+:...skipping...
+commit 2210f46730a37a9e7c365825a047d024a885ac49 (HEAD -> master, origin/bug3, bug3)
+Author: Andrej Tasevski <andrejtasevski541@gmail.com>
+Date:   Tue Apr 4 22:12:17 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit ee4488865ce5cd61b6ab33efa9668c995214457b (origin/master)
+Merge: 7a020c6 8d146fe
+Author: Andrej Tasevski <andrejtasevski541@gmail.com>
+Date:   Tue Apr 4 22:18:28 2023 +0200
+
+    Merge branch 'bug2'
+
+commit 8d146fea587d47912aae8d8d511da40aa1a62d6a (origin/bug2, bug2)
+Author: Andrej Tasevski <andrejtasevski541@gmail.com>
+Date:   Tue Apr 4 22:11:39 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 7a020c67b7c6fc6daadfb52e65252e3b84677dbd (origin/bug1, bug1)
+Author: Andrej Tasevski <andrejtasevski541@gmail.com>
+Date:   Tue Apr 4 22:10:51 2023 +0200
+
+    Fix wrong loop for reading
+
+commit 1368d069252d6bd1679050cc308419ae4e315196
+Author: Andrej Tasevski <andrejtasevski541@gmail.com>
+Date:   Tue Apr 4 22:08:55 2023 +0200
+
+    Add java class
+
+commit d1269214185a3922ec4240a4ad0778d8956f06f8
+Author: Andrej Tasevski <andrejtasevski541@gmail.com>
+Date:   Tue Apr 4 22:07:23 2023 +0200
+
+    initial commit
